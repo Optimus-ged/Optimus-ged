@@ -18,7 +18,6 @@
 <br>
 
 - A passionate Self-taught Mobile developer
-- Playing CTF's at spare time
 - Currently learning Machine learning by Self
 - I’m currently open for an Intern or a new job opportunity
 
