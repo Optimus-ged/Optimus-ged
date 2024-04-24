@@ -3,8 +3,8 @@
 <br>
 
 
-- A passionate Self-taught Mobile developer
-- Currently learning Machine learning by Self
+- A passionate Self-taught Mobile, bakckend and frontend developer
+- Currently learning tailwind css
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
